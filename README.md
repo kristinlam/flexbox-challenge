@@ -1,3 +1,3 @@
-# Thesis Stamp Application
+# Flexbox Challenge
 
-Kristin Lam's application for front end web developer position at Thesis
+Code challenge to replicate Sketch file using advanced CSS concepts, such as flexbox
